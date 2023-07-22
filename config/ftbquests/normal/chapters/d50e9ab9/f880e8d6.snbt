@@ -1,0 +1,21 @@
+{
+	x: 18.0d,
+	y: -2.5d,
+	dependencies: [
+		"2345fa66"
+	],
+	tasks: [{
+		uid: "48185687",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "computercraft:disk_expanded",
+			tag: {
+				color: 1118481
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

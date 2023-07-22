@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 1.0d,
+	dependencies: [
+		"842f8103"
+	],
+	tasks: [{
+		uid: "c97a95f7",
+		type: "item",
+		items: [{
+			item: "moreplates:empowered_enori_plate"
+		}]
+	}]
+}

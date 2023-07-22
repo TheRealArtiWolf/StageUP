@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -3.0d,
+	dependencies: [
+		"842f8103"
+	],
+	tasks: [{
+		uid: "7786048c",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_crystal_empowered 1 3"
+		}]
+	}]
+}

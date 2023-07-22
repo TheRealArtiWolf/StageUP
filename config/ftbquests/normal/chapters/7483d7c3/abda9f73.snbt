@@ -1,0 +1,16 @@
+{
+	x: 24.0d,
+	y: -6.5d,
+	tasks: [{
+		uid: "9fb0a19c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:auraring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

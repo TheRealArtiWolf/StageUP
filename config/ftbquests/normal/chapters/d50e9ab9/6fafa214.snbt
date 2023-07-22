@@ -1,0 +1,40 @@
+{
+	x: 15.0d,
+	y: 17.0d,
+	dependencies: [
+		"274eb4c9"
+	],
+	tasks: [{
+		uid: "e5d9a46c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "pearlEnderEye",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any pearlEnderEye"
+				}
+			}
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "6696eb0e",
+		type: "command",
+		title: "StrongHoldFinder.cmd",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:hand_mirror",
+			Count: 1b
+		},
+		command: "/locate Stronghold",
+		player_command: true
+	}]
+}

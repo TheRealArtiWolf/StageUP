@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: 2.5d,
+	dependencies: [
+		"5613f256",
+		"2e7ebe33"
+	],
+	tasks: [{
+		uid: "dafa93f8",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "0b640aca",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	dependencies: [
+		"6fe9f038"
+	],
+	tasks: [{
+		uid: "287c0d2b",
+		type: "item",
+		items: [{
+			item: "projectred-expansion:machine2 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 12.5d,
+	y: -3.5d,
+	dependencies: [
+		"9a808e36"
+	],
+	tasks: [{
+		uid: "2f9be564",
+		type: "item",
+		items: [{
+			item: "twilightforest:armor_shard_cluster"
+		}]
+	}]
+}

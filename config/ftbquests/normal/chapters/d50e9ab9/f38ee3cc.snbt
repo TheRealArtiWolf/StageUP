@@ -1,0 +1,16 @@
+{
+	x: 40.0d,
+	y: 4.0d,
+	dependencies: [
+		"0bbc5d2e",
+		"735afc19"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "51d2bf29",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 1"
+		}]
+	}]
+}

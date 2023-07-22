@@ -1,0 +1,25 @@
+{
+	x: 38.0d,
+	y: -0.5d,
+	dependencies: [
+		"0f1e7b32"
+	],
+	tasks: [{
+		uid: "54a5b720",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustRuby",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustRuby"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 5.0d,
+	dependencies: [
+		"62a37588"
+	],
+	tasks: [{
+		uid: "22d95568",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:fiery_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

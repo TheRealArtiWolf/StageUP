@@ -1,0 +1,22 @@
+{
+	x: 50.5d,
+	y: 13.0d,
+	dependencies: [
+		"2058a9c4",
+		"3ff31da7"
+	],
+	tasks: [{
+		uid: "29f20a99",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:mining_laser",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

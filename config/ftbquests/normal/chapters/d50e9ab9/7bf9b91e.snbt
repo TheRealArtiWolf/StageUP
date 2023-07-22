@@ -1,0 +1,25 @@
+{
+	x: 24.0d,
+	y: -5.5d,
+	dependencies: [
+		"edcc50e6"
+	],
+	tasks: [{
+		uid: "f14fb60a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plateBrass",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plateBrass"
+				}
+			}
+		}]
+	}]
+}

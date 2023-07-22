@@ -1,0 +1,21 @@
+{
+	x: 33.0d,
+	y: 7.0d,
+	dependencies: [
+		"2b71385e"
+	],
+	tasks: [{
+		uid: "3831a3f5",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 72s
+		}]
+	}],
+	rewards: [{
+		uid: "c0ff88b5",
+		type: "random",
+		table: 0
+	}]
+}

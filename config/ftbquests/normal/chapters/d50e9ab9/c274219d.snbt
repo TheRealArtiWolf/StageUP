@@ -1,0 +1,21 @@
+{
+	x: 40.5d,
+	y: 7.5d,
+	dependencies: [
+		"a07d95e6"
+	],
+	tasks: [{
+		uid: "1a0a766a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:chainsaw",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

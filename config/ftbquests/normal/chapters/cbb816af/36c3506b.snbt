@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"a19fdb4d"
+	],
+	tasks: [{
+		uid: "dbafaa2d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "microblockcbe:saw_diamond"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

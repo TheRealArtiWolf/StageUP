@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"8db84c5f"
+	],
+	tasks: [{
+		uid: "6912b4bd",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_canola_seed"
+		}]
+	}]
+}

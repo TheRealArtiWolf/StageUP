@@ -1,0 +1,14 @@
+{
+	x: 21.5d,
+	y: 5.0d,
+	dependencies: [
+		"5e8b239e"
+	],
+	tasks: [{
+		uid: "9c9b0015",
+		type: "item",
+		items: [{
+			item: "moreplates:ironwood_plate"
+		}]
+	}]
+}

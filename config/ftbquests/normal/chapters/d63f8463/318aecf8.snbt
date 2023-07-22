@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	dependencies: [
+		"4da28893"
+	],
+	tasks: [{
+		uid: "4b92e418",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_misc 1 5"
+		}]
+	}]
+}

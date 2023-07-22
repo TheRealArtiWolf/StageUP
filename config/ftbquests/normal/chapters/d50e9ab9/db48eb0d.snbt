@@ -1,0 +1,19 @@
+{
+	x: 27.0d,
+	y: 3.0d,
+	dependencies: [
+		"2e12dc60"
+	],
+	tasks: [{
+		uid: "6c1612bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

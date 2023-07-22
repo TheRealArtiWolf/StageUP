@@ -1,0 +1,11 @@
+{
+	x: 12.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "3f5de71e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:pink_slime"
+		}]
+	}]
+}

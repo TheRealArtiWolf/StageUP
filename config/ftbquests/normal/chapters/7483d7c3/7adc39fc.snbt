@@ -1,0 +1,11 @@
+{
+	x: 26.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "b8e742b8",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 1"
+		}]
+	}]
+}

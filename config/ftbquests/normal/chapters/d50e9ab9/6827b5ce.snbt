@@ -1,0 +1,31 @@
+{
+	x: 53.5d,
+	y: 7.0d,
+	text: [
+		"Build a 3x4x3 multiblock with this machine casings"
+	],
+	dependencies: [
+		"698dae8a"
+	],
+	tasks: [{
+		uid: "c3676667",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_standard_machine_casing"
+		}],
+		count: 34L
+	},
+	{
+		uid: "6648aeeb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}],
+		count: 2L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

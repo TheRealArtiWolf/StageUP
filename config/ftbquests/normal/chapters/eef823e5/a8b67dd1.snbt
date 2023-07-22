@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "d10d2205",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ore"
+		}],
+		count: 48L
+	}],
+	rewards: [{
+		uid: "a13a7be7",
+		type: "item",
+		item: "gregtechmod:credit_gold"
+	}]
+}

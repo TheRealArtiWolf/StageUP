@@ -1,0 +1,14 @@
+{
+	x: 13.0d,
+	y: 13.0d,
+	dependencies: [
+		"83e36e38"
+	],
+	tasks: [{
+		uid: "f803cb3f",
+		type: "item",
+		items: [{
+			item: "minecraft:brewing_stand"
+		}]
+	}]
+}

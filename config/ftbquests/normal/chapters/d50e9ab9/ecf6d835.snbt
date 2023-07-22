@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: 5.5d,
+	dependencies: [
+		"c860c92e"
+	],
+	tasks: [{
+		uid: "bad28472",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	}]
+}

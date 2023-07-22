@@ -1,0 +1,21 @@
+{
+	icon: "twilightforest:trophy 1 4",
+	x: 12.5d,
+	y: -2.0d,
+	dependencies: [
+		"9695f0b6"
+	],
+	tasks: [{
+		uid: "4f6a4beb",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 4"
+		}]
+	},
+	{
+		uid: "c6bab2ec",
+		type: "kill",
+		entity: "twilightforest:knight_phantom",
+		value: 1L
+	}]
+}

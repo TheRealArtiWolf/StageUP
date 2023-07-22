@@ -1,0 +1,14 @@
+{
+	x: 46.5d,
+	y: -3.0d,
+	dependencies: [
+		"a366de6f"
+	],
+	tasks: [{
+		uid: "bde5934d",
+		type: "item",
+		items: [{
+			item: "gregtechmod:conveyor"
+		}]
+	}]
+}

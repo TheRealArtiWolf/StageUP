@@ -1,0 +1,14 @@
+{
+	x: 39.0d,
+	y: -4.0d,
+	dependencies: [
+		"b1777677"
+	],
+	tasks: [{
+		uid: "d2c3b234",
+		type: "item",
+		items: [{
+			item: "akutoengine:enginechip"
+		}]
+	}]
+}

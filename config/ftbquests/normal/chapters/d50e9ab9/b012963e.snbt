@@ -1,0 +1,16 @@
+{
+	x: -2.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "0332dba8",
+		type: "checkmark",
+		title: "Geting Starting",
+		icon: "gregtechmod:greg_coin"
+	}],
+	rewards: [{
+		uid: "6329f635",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 5
+	}]
+}

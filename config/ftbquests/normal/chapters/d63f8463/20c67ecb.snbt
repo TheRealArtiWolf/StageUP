@@ -1,0 +1,24 @@
+{
+	title: "HDPE",
+	x: 21.0d,
+	y: -12.5d,
+	shape: "hexagon",
+	dependencies: [
+		"68368b31"
+	],
+	size: 3.0d,
+	tasks: [{
+		uid: "e452e38b",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 2"
+		}]
+	},
+	{
+		uid: "e3ee61c8",
+		type: "item",
+		items: [{
+			item: "mekanism:polyethene 1 1"
+		}]
+	}]
+}

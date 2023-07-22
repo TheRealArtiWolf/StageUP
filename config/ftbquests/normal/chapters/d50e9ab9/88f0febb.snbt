@@ -1,0 +1,14 @@
+{
+	x: 37.5d,
+	y: 13.0d,
+	dependencies: [
+		"f2079b79"
+	],
+	tasks: [{
+		uid: "3eb8ee97",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframe"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 44.0d,
+	y: -1.5d,
+	dependencies: [
+		"14db68da"
+	],
+	tasks: [{
+		uid: "ff4729aa",
+		type: "item",
+		items: [{
+			item: "advanced_machines:machines"
+		}]
+	}],
+	rewards: [{
+		uid: "d20426c0",
+		type: "random",
+		table: 0
+	}]
+}

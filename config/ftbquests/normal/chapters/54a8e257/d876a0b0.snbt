@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: -3.5d,
+	dependencies: [
+		"1d35266e"
+	],
+	tasks: [{
+		uid: "64b5eacc",
+		type: "item",
+		items: [{
+			item: "twilightforest:naga_scale"
+		}]
+	}]
+}

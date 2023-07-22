@@ -1,0 +1,14 @@
+{
+	x: 26.5d,
+	y: 11.5d,
+	dependencies: [
+		"2bd6c853"
+	],
+	tasks: [{
+		uid: "b814c9c3",
+		type: "item",
+		items: [{
+			item: "powersuits:powerarmorcomponent"
+		}]
+	}]
+}

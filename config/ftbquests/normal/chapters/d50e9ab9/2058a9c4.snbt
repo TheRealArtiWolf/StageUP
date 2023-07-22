@@ -1,0 +1,14 @@
+{
+	x: 51.0d,
+	y: 9.5d,
+	dependencies: [
+		"fcef1ad5"
+	],
+	tasks: [{
+		uid: "f3b5d763",
+		type: "item",
+		items: [{
+			item: "gregtechmod:plate_titanium"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	icon: "twilightforest:trophy 1 1",
+	x: 6.5d,
+	y: -2.0d,
+	dependencies: [
+		"1d35266e"
+	],
+	tasks: [{
+		uid: "51e58f4e",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}]
+	},
+	{
+		uid: "b41d7b34",
+		type: "kill",
+		entity: "twilightforest:lich",
+		value: 1L
+	}]
+}

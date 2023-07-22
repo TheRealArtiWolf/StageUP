@@ -1,0 +1,25 @@
+{
+	x: 29.0d,
+	y: -4.0d,
+	dependencies: [
+		"8617c12c"
+	],
+	tasks: [{
+		uid: "a7777dd7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearGold",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearGold"
+				}
+			}
+		}]
+	}]
+}

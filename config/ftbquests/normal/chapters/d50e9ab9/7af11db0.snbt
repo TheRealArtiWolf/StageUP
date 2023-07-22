@@ -1,0 +1,23 @@
+{
+	x: 65.0d,
+	y: 12.0d,
+	dependencies: [
+		"059bcf17",
+		"7c1e3570",
+		"f99b43c9"
+	],
+	tasks: [{
+		uid: "8cce5fe0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtechmod:saw_advanced",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 49.0d,
+	y: 13.0d,
+	dependencies: [
+		"0113a5da"
+	],
+	tasks: [{
+		uid: "dad8d053",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtechmod:coolant_helium_360k",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 34.5d,
+	y: 4.0d,
+	dependencies: [
+		"999ae00b"
+	],
+	tasks: [{
+		uid: "bac73cad",
+		type: "item",
+		items: [{
+			item: "ic2:ingot"
+		}]
+	}]
+}

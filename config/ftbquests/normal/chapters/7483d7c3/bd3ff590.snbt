@@ -1,0 +1,11 @@
+{
+	x: 27.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "b5006fd4",
+		type: "item",
+		items: [{
+			item: "botania:vial 1 1"
+		}]
+	}]
+}

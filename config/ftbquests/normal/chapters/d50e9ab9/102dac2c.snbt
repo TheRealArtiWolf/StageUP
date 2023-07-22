@@ -1,0 +1,15 @@
+{
+	x: 60.0d,
+	y: 9.0d,
+	dependencies: [
+		"904bc8e7",
+		"d9646ed7"
+	],
+	tasks: [{
+		uid: "4be67a4c",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_iridium_alloy"
+		}]
+	}]
+}

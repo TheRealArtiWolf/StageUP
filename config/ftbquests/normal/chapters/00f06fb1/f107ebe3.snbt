@@ -1,0 +1,10 @@
+{
+	x: 10.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "dd1591ef",
+		type: "kill",
+		entity: "industrialforegoing:pink_slime",
+		value: 1L
+	}]
+}

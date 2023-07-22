@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "square",
+	text: [
+		"Twilight Portal Can be opened with teleportation Core as an alternative for diamond"
+	],
+	dependencies: [
+		"9fdd2908"
+	],
+	size: 2.3d,
+	tasks: [{
+		uid: "d01acaab",
+		type: "dimension",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "b863afec",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "xreliquary:sojourner_staff"
+		}
+	},
+	{
+		uid: "766da473",
+		type: "item",
+		item: "minecraft:torch",
+		count: 256
+	}]
+}

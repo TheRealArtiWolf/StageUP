@@ -1,0 +1,11 @@
+{
+	x: 19.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "4dcc5d44",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:fertilizer"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	icon: "twilightforest:trophy 1 6",
+	x: 4.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "917866c5",
+		type: "kill",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ae17a261",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 10
+	}]
+}

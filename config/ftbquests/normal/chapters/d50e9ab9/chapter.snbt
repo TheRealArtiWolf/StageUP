@@ -1,0 +1,18 @@
+{
+	title: "Early Game",
+	icon: "gregtechmod:greg_coin",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare",
+	images: [{
+		x: -2.0d,
+		y: 0.0d,
+		width: 8.5d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "https://raw.githubusercontent.com/Su5eD/GregTech-Experimental/forge-1.12.2/src/main/resources/GTE_Logo_medium.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

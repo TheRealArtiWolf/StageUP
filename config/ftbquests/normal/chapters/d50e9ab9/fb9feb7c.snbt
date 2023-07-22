@@ -1,0 +1,25 @@
+{
+	x: 12.5d,
+	y: 6.5d,
+	dependencies: [
+		"cf65905b"
+	],
+	tasks: [{
+		uid: "b082f4d8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotCopper"
+				}
+			}
+		}]
+	}]
+}

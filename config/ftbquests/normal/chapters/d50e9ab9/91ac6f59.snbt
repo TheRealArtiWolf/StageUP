@@ -1,0 +1,21 @@
+{
+	x: 36.0d,
+	y: 13.0d,
+	dependencies: [
+		"607ae5b7"
+	],
+	tasks: [{
+		uid: "89745c10",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:nano_saber",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

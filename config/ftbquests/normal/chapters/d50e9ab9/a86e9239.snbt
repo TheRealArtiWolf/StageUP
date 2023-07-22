@@ -1,0 +1,14 @@
+{
+	x: 25.0d,
+	y: -5.5d,
+	dependencies: [
+		"7bf9b91e"
+	],
+	tasks: [{
+		uid: "f5850c44",
+		type: "item",
+		items: [{
+			item: "railcraft:charge 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 37.5d,
+	y: 5.5d,
+	dependencies: [
+		"b694b4c8",
+		"4232a047"
+	],
+	tasks: [{
+		uid: "f1d94c08",
+		type: "item",
+		items: [{
+			item: "gregtechmod:teblock 1 27"
+		}]
+	}],
+	rewards: [{
+		uid: "fbb239bb",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 62.5d,
+	y: -3.0d,
+	dependencies: [
+		"149436fb"
+	],
+	tasks: [{
+		uid: "1abbbad0",
+		type: "item",
+		items: [{
+			item: "gregtechmod:data_storage_circuit"
+		}]
+	}]
+}

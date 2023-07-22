@@ -1,0 +1,16 @@
+{
+	x: 53.5d,
+	y: 9.5d,
+	shape: "gear",
+	dependencies: [
+		"6827b5ce"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "91524942",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_titanium"
+		}]
+	}]
+}

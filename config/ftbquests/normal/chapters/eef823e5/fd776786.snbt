@@ -1,0 +1,18 @@
+{
+	icon: "twilightforest:trophy",
+	x: 1.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c9a63d05",
+		type: "kill",
+		entity: "twilightforest:naga",
+		value: 3L
+	}],
+	rewards: [{
+		uid: "27039985",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 4
+	}]
+}

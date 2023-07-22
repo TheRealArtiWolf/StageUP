@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	dependencies: [
+		"ebb1d777"
+	],
+	tasks: [{
+		uid: "7a12c3ff",
+		type: "item",
+		items: [{
+			item: "minecraft:potato"
+		}]
+	}]
+}

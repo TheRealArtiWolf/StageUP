@@ -1,0 +1,16 @@
+{
+	x: 27.0d,
+	y: 5.5d,
+	shape: "gear",
+	dependencies: [
+		"d1832fb1"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "250ae89e",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 1"
+		}]
+	}]
+}

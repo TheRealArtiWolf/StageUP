@@ -1,0 +1,17 @@
+{
+	x: 47.0d,
+	y: 8.0d,
+	dependencies: [
+		"a694494e"
+	],
+	tasks: [{
+		uid: "44adb634",
+		type: "item",
+		items: [{
+			id: "ic2:advanced_heat_vent",
+			tag: {
+				advDmg: 0
+			}
+		}]
+	}]
+}

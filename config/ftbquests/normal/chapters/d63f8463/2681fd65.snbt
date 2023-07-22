@@ -1,0 +1,14 @@
+{
+	x: 14.0d,
+	y: -4.5d,
+	dependencies: [
+		"c2ce0dc8"
+	],
+	tasks: [{
+		uid: "dc3e93ef",
+		type: "item",
+		items: [{
+			item: "mekanism:enrichedalloy"
+		}]
+	}]
+}

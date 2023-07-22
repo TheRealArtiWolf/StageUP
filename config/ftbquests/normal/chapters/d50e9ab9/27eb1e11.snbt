@@ -1,0 +1,19 @@
+{
+	x: 9.0d,
+	y: 7.5d,
+	dependencies: [
+		"f955fc2b"
+	],
+	tasks: [{
+		uid: "d6997aa1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtechmod:mortar_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

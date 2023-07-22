@@ -1,0 +1,14 @@
+{
+	x: 41.0d,
+	y: -4.0d,
+	dependencies: [
+		"9baad688"
+	],
+	tasks: [{
+		uid: "de1628c9",
+		type: "item",
+		items: [{
+			item: "akutoengine:akutoengine"
+		}]
+	}]
+}

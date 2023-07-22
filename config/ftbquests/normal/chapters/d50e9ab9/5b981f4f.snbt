@@ -1,0 +1,25 @@
+{
+	x: 18.0d,
+	y: 3.0d,
+	dependencies: [
+		"664e806e"
+	],
+	tasks: [{
+		uid: "3d56ef1d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTin"
+				}
+			}
+		}]
+	}]
+}

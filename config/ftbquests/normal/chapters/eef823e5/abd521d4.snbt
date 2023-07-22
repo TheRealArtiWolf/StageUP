@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "5ae10eb9",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "101d0301",
+		type: "item",
+		item: "minecraft:ender_pearl"
+	}]
+}

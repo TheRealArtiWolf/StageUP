@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "e7fa91a4",
+		type: "item",
+		items: [{
+			item: "projectred-transportation:pipe 1 64"
+		}]
+	}]
+}

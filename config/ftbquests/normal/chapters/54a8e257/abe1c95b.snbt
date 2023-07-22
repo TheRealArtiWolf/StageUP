@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 3.5d,
+	dependencies: [
+		"ff5ce45c"
+	],
+	tasks: [{
+		uid: "cd9a9faa",
+		type: "item",
+		items: [{
+			item: "twilightforest:ironwood_raw"
+		}]
+	}]
+}

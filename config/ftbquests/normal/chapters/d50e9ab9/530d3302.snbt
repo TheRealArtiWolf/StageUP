@@ -1,0 +1,22 @@
+{
+	x: 44.0d,
+	y: 7.5d,
+	dependencies: [
+		"7ec74a9f",
+		"c274219d"
+	],
+	tasks: [{
+		uid: "94f334b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gravisuite:advancedchainsaw",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

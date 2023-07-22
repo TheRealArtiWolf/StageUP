@@ -1,0 +1,22 @@
+{
+	x: 30.0d,
+	y: 0.5d,
+	text: [
+		"Extract Rubber For Rubber Trees Miscs"
+	],
+	dependencies: [
+		"b0fb11a2"
+	],
+	tasks: [{
+		uid: "76bbe7f2",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 45"
+		}]
+	}],
+	rewards: [{
+		uid: "6204b5df",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 0.0d,
+	dependencies: [
+		"b8f5dfcd",
+		"b1222499"
+	],
+	tasks: [{
+		uid: "f2a075c1",
+		type: "item",
+		items: [{
+			item: "projectred-expansion:solar_panel"
+		}]
+	}]
+}

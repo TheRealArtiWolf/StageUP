@@ -1,0 +1,19 @@
+{
+	x: 20.0d,
+	y: -2.0d,
+	dependencies: [
+		"4697cdd5"
+	],
+	tasks: [{
+		uid: "d378db9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

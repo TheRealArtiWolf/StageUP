@@ -1,0 +1,15 @@
+{
+	x: 51.0d,
+	y: -1.5d,
+	dependencies: [
+		"213cabab",
+		"698dae8a"
+	],
+	tasks: [{
+		uid: "36491f66",
+		type: "item",
+		items: [{
+			item: "gregtechmod:ingot_chrome"
+		}]
+	}]
+}

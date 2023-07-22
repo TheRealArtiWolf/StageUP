@@ -1,0 +1,22 @@
+{
+	x: 45.5d,
+	y: 10.5d,
+	dependencies: [
+		"7ec74a9f",
+		"fbfaa3fd"
+	],
+	tasks: [{
+		uid: "edd30066",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gravisuite:advanceddrill",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

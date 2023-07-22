@@ -1,0 +1,18 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "alchemistry:alchemistry_book": {
+      "viewedEntries": [
+        "alchemistry:fission/fission_template",
+        "alchemistry:fission/fission_overview"
+      ],
+      "bookmarks": [],
+      "history": [
+        "alchemistry:fission/fission_template",
+        "alchemistry:fission/fission_overview"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

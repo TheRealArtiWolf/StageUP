@@ -1,0 +1,14 @@
+{
+	x: 51.0d,
+	y: 8.0d,
+	dependencies: [
+		"01a1bae6"
+	],
+	tasks: [{
+		uid: "49e930e2",
+		type: "item",
+		items: [{
+			item: "gravisuite:crafting 1 6"
+		}]
+	}]
+}

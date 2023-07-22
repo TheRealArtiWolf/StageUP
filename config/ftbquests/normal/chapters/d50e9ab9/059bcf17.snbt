@@ -1,0 +1,14 @@
+{
+	x: 69.0d,
+	y: 11.5d,
+	dependencies: [
+		"d18d5b49"
+	],
+	tasks: [{
+		uid: "bc3c50ba",
+		type: "item",
+		items: [{
+			item: "gregtechmod:plate_tungsten_steel"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 62.5d,
+	y: -15.0d,
+	dependencies: [
+		"b0df9e93"
+	],
+	tasks: [{
+		uid: "d97226b5",
+		type: "item",
+		items: [{
+			id: "gregtechmod:data_orb",
+			tag: {}
+		}]
+	}]
+}

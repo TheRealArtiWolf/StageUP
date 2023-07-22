@@ -1,0 +1,19 @@
+{
+	icon: "minecraft:gold_ingot",
+	x: 3.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "05f5f94f",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_silver"
+		}]
+	}],
+	rewards: [{
+		uid: "da536ea5",
+		type: "item",
+		item: "minecraft:gold_ingot",
+		count: 5
+	}]
+}

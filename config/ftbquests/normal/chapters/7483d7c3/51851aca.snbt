@@ -1,0 +1,11 @@
+{
+	x: 5.5d,
+	y: -5.5d,
+	tasks: [{
+		uid: "ddba2cb5",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 27.0d,
+	y: -4.0d,
+	dependencies: [
+		"366e581b"
+	],
+	tasks: [{
+		uid: "cebddeba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearIron"
+				}
+			}
+		}]
+	}]
+}

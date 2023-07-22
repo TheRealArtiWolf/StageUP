@@ -1,0 +1,15 @@
+{
+	x: 62.5d,
+	y: 12.5d,
+	dependencies: [
+		"b0df9e93",
+		"fb264eed"
+	],
+	tasks: [{
+		uid: "c4908e75",
+		type: "item",
+		items: [{
+			item: "gregtechmod:data_control_circuit"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 48.0d,
+	y: 1.5d,
+	dependencies: [
+		"ab5715d5"
+	],
+	tasks: [{
+		uid: "31d8600b",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_bauxite"
+		}]
+	}]
+}

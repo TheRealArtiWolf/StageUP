@@ -1,0 +1,14 @@
+{
+	x: 51.0d,
+	y: 1.5d,
+	dependencies: [
+		"a918c143"
+	],
+	tasks: [{
+		uid: "84eeb992",
+		type: "item",
+		items: [{
+			item: "gregtechmod:dust_titanium"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 14.0d,
+	y: -6.0d,
+	dependencies: [
+		"ba1930ea"
+	],
+	tasks: [{
+		uid: "b1561791",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock",
+			tag: {
+				recipeType: 7
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	}]
+}

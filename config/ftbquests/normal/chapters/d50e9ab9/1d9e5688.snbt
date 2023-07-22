@@ -1,0 +1,14 @@
+{
+	x: 28.0d,
+	y: 14.0d,
+	dependencies: [
+		"a80b47e0"
+	],
+	tasks: [{
+		uid: "feb296ad",
+		type: "item",
+		items: [{
+			item: "powersuits:tinkertable"
+		}]
+	}]
+}

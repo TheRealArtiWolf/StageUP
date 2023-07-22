@@ -1,0 +1,24 @@
+{
+	x: 58.5d,
+	y: -1.5d,
+	dependencies: [
+		"0206e222",
+		"3ab77053"
+	],
+	tasks: [{
+		uid: "9af3e389",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_reinforced_machine_casing"
+		}],
+		count: 20L
+	},
+	{
+		uid: "4da28893",
+		type: "item",
+		items: [{
+			item: "gregtechmod:block_advanced_machine_casing"
+		}],
+		count: 6L
+	}]
+}

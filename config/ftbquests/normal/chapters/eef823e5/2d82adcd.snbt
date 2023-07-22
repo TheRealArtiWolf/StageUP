@@ -1,0 +1,29 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "projectred-exploration:backpack"
+	},
+	x: 6.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "f828df47",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_silver"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "cf5e968a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projectred-exploration:backpack"
+		}
+	}]
+}

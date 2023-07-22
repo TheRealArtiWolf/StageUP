@@ -1,0 +1,21 @@
+{
+	x: 35.0d,
+	y: 13.0d,
+	dependencies: [
+		"9348399e"
+	],
+	tasks: [{
+		uid: "8f4ad692",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:nano_helmet",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 18.0d,
+	y: -4.0d,
+	dependencies: [
+		"f880e8d6"
+	],
+	tasks: [{
+		uid: "acbb168a",
+		type: "item",
+		items: [{
+			item: "computercraft:peripheral"
+		}]
+	}]
+}

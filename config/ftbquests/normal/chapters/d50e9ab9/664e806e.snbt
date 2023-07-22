@@ -1,0 +1,25 @@
+{
+	x: 17.0d,
+	y: 3.0d,
+	dependencies: [
+		"5d0c3e31"
+	],
+	tasks: [{
+		uid: "02d25164",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any oreTin"
+				}
+			}
+		}]
+	}]
+}

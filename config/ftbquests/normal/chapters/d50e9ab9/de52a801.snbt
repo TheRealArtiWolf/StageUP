@@ -1,0 +1,17 @@
+{
+	x: 18.0d,
+	y: -7.0d,
+	dependencies: [
+		"6e8a5f23"
+	],
+	tasks: [{
+		uid: "64257165",
+		type: "item",
+		items: [{
+			id: "computercraft:turtle_expanded",
+			tag: {
+				rightUpgrade: "minecraft:diamond_pickaxe"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 42.5d,
+	y: -1.5d,
+	dependencies: [
+		"0f1e7b32",
+		"735afc19"
+	],
+	tasks: [{
+		uid: "9c3db7af",
+		type: "item",
+		items: [{
+			item: "advanced_machines:sharp_plate"
+		}]
+	}]
+}

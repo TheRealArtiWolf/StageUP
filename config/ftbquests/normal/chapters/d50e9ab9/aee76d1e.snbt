@@ -1,0 +1,25 @@
+{
+	x: 23.0d,
+	y: -4.0d,
+	dependencies: [
+		"aed5e26b"
+	],
+	tasks: [{
+		uid: "298d5d77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearWood"
+				}
+			}
+		}]
+	}]
+}

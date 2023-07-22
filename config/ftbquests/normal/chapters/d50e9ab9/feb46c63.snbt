@@ -1,0 +1,14 @@
+{
+	x: 35.0d,
+	y: -4.0d,
+	dependencies: [
+		"0277c2d7"
+	],
+	tasks: [{
+		uid: "6e2777d1",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:assembly_table"
+		}]
+	}]
+}

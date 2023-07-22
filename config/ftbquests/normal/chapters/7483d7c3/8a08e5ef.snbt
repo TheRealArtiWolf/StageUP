@@ -1,0 +1,17 @@
+{
+	x: 24.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "b0b9aa92",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:bloodpendant",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "3 Hours",
+	x: -2.0d,
+	y: 8.5d,
+	text: [
+		"Play the modpack for 3 hours"
+	],
+	dependencies: [
+		"b012963e"
+	],
+	tasks: [{
+		uid: "35c8f1a0",
+		type: "stat",
+		stat: "stat.playOneMinute",
+		value: 2160000
+	}],
+	rewards: [{
+		uid: "3eb7d882",
+		type: "item",
+		item: "gregtechmod:credit_diamond",
+		count: 2
+	}]
+}

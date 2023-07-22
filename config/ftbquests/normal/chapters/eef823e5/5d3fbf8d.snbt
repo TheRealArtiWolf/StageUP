@@ -1,0 +1,19 @@
+{
+	icon: "minecraft:iron_ingot",
+	x: 1.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "b8a10b97",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_silver"
+		}]
+	}],
+	rewards: [{
+		uid: "2ae92a38",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 8
+	}]
+}

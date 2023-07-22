@@ -1,0 +1,21 @@
+{
+	icon: "twilightforest:trophy 1 5",
+	x: 18.5d,
+	y: -2.0d,
+	dependencies: [
+		"ca2cfacb"
+	],
+	tasks: [{
+		uid: "08a5a439",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	},
+	{
+		uid: "edbbc5e4",
+		type: "kill",
+		entity: "twilightforest:snow_queen",
+		value: 1L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	icon: "projectred-core:resource_item 1 105",
+	x: 7.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "cabcbf87",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_silver"
+		}]
+	}],
+	rewards: [{
+		uid: "e78f827e",
+		type: "item",
+		item: "projectred-core:resource_item 1 105",
+		count: 36
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"ae70641a"
+	],
+	tasks: [{
+		uid: "51bbcd17",
+		type: "item",
+		items: [{
+			item: "twilightforest:liveroot"
+		}]
+	}]
+}

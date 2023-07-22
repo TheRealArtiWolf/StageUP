@@ -1,0 +1,20 @@
+{
+	x: 26.5d,
+	y: 9.5d,
+	dependencies: [
+		"50d31e53"
+	],
+	tasks: [{
+		uid: "12c61820",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:frequency_transmitter",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

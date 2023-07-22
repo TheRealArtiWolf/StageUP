@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "650a2899",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "de81cfa0",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 3
+	}]
+}

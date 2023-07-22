@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "3c55605e",
+		type: "buildcraft_mj",
+		value: 1000000000000L
+	}],
+	rewards: [{
+		uid: "4fac08ac",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 4
+	}]
+}

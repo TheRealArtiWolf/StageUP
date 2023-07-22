@@ -1,0 +1,28 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "gregtechmod:hammer_tungsten_steel"
+	},
+	x: 0.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "8fc91f9a",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_gold"
+		}]
+	}],
+	rewards: [{
+		uid: "9bca95bf",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtechmod:hammer_tungsten_steel"
+		}
+	}]
+}

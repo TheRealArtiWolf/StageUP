@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "81c9f2d4",
+		type: "fluid",
+		fluid: "water",
+		amount: 1000000
+	}],
+	rewards: [{
+		uid: "b0796a93",
+		type: "item",
+		auto: "enabled",
+		item: "gregtechmod:credit_silver"
+	}]
+}

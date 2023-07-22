@@ -1,0 +1,17 @@
+{
+	x: 24.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "a9f411ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:incensestick",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

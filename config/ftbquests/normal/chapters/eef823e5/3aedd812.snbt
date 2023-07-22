@@ -1,0 +1,18 @@
+{
+	icon: "ic2:misc_resource 1 1",
+	x: -1.5d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ff3da400",
+		type: "item",
+		items: [{
+			item: "gregtechmod:credit_gold"
+		}]
+	}],
+	rewards: [{
+		uid: "46160b83",
+		type: "item",
+		item: "ic2:misc_resource 1 1"
+	}]
+}

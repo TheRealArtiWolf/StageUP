@@ -1,0 +1,29 @@
+{
+	x: 4.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "aeffa01d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "nuggetDiamond",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any nuggetDiamond"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "621bdebc",
+		type: "item",
+		item: "gregtechmod:credit_silver",
+		count: 2
+	}]
+}

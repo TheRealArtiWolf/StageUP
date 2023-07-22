@@ -1,0 +1,24 @@
+{
+	x: 27.0d,
+	y: 14.5d,
+	dependencies: [
+		"a80b47e0"
+	],
+	tasks: [{
+		uid: "1a4bf07f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "powersuits:powerarmor_feet",
+			tag: {
+				MMModItem: {
+					commonValues: {}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

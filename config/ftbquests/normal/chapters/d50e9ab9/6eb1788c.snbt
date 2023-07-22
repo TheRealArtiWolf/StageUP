@@ -1,0 +1,18 @@
+{
+	x: 19.5d,
+	y: 17.0d,
+	text: [
+		"Tip Can Be Found on the small floating islands after entering the gateway",
+		"as yellow blocks"
+	],
+	dependencies: [
+		"6fafa214"
+	],
+	tasks: [{
+		uid: "767504c1",
+		type: "item",
+		items: [{
+			item: "gregtechmod:sheldonite_ore"
+		}]
+	}]
+}

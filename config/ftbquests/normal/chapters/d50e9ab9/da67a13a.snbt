@@ -1,0 +1,15 @@
+{
+	x: 52.5d,
+	y: 17.0d,
+	dependencies: [
+		"5c61b344"
+	],
+	tasks: [{
+		uid: "c68c8841",
+		type: "item",
+		items: [{
+			item: "railcraft:rock_crusher"
+		}],
+		count: 12L
+	}]
+}

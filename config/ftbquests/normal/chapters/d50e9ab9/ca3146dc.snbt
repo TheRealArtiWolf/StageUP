@@ -1,0 +1,21 @@
+{
+	x: 39.0d,
+	y: 9.5d,
+	dependencies: [
+		"a07d95e6"
+	],
+	tasks: [{
+		uid: "3be52f21",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:drill",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

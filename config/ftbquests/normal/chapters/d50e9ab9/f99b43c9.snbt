@@ -1,0 +1,18 @@
+{
+	x: 69.0d,
+	y: 12.5d,
+	dependencies: [
+		"b972df24"
+	],
+	tasks: [{
+		uid: "076281d7",
+		type: "item",
+		items: [{
+			id: "gregtechmod:lithium_re_battery",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

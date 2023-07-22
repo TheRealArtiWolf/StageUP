@@ -1,0 +1,14 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"842f8103"
+	],
+	tasks: [{
+		uid: "1eb4aec9",
+		type: "item",
+		items: [{
+			item: "moreplates:empowered_emeradic_plate"
+		}]
+	}]
+}

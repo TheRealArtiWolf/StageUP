@@ -1,0 +1,11 @@
+{
+	x: 6.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "093e527a",
+		type: "item",
+		items: [{
+			item: "extrabotany:elfjar"
+		}]
+	}]
+}

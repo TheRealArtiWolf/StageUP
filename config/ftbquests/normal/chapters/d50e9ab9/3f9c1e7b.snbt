@@ -1,0 +1,21 @@
+{
+	x: 60.0d,
+	y: 15.0d,
+	dependencies: [
+		"fb264eed"
+	],
+	tasks: [{
+		uid: "ba351abe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:quantum_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

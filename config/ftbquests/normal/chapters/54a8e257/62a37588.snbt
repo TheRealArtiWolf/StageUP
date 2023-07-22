@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: 4.0d,
+	dependencies: [
+		"93da31cc"
+	],
+	tasks: [{
+		uid: "6bf509a6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:fiery_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

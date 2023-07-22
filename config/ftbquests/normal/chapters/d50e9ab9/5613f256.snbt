@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 4.5d,
+	dependencies: [
+		"2e7ebe33"
+	],
+	tasks: [{
+		uid: "762644fd",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}],
+	rewards: [{
+		uid: "fbaee648",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 0.0d,
+	dependencies: [
+		"7952180b",
+		"05eaa0a3",
+		"f0cb5b78",
+		"ad93b00d"
+	],
+	tasks: [{
+		uid: "7b8e211e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_display_stand"
+		}]
+	}]
+}

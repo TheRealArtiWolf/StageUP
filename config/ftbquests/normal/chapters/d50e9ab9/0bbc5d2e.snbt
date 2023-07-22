@@ -1,0 +1,14 @@
+{
+	x: 39.0d,
+	y: 6.5d,
+	dependencies: [
+		"a07d95e6"
+	],
+	tasks: [{
+		uid: "aa8174bc",
+		type: "item",
+		items: [{
+			item: "gregtechmod:hull_steel"
+		}]
+	}]
+}

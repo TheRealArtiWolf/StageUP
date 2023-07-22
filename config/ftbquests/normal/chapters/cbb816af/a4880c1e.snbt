@@ -1,0 +1,11 @@
+{
+	x: 3.0d,
+	y: 6.5d,
+	tasks: [{
+		uid: "3fa3cbef",
+		type: "item",
+		items: [{
+			item: "projectred-expansion:machine2 1 3"
+		}]
+	}]
+}

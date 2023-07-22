@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "2e4e09f0",
+		type: "item",
+		items: [{
+			item: "projectred-core:resource_item 1 252"
+		}]
+	}]
+}

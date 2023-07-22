@@ -1,0 +1,21 @@
+{
+	x: 34.0d,
+	y: 2.0d,
+	dependencies: [
+		"e8619f78"
+	],
+	tasks: [{
+		uid: "dc2aaa2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:jetpack_electric",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

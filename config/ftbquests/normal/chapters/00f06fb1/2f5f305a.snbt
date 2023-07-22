@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "0453b5b9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"industrialforegoing:meat_feeder": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:meat_feeder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 20.0d,
+	y: -6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"aed5e26b"
+	],
+	tasks: [{
+		uid: "d7c96bea",
+		type: "item",
+		items: [{
+			item: "railcraft:equipment"
+		}]
+	}]
+}

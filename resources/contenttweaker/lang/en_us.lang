@@ -1,0 +1,32 @@
+item.contenttweaker.actually_component.name=Actually Component
+item.contenttweaker.astral_core.name=Divine Core
+item.contenttweaker.bloody_core.name=Blood Core
+item.contenttweaker.blackmagic_core.name=Black Magic Core
+item.contenttweaker.botanical_core.name=Botanical Core
+item.contenttweaker.core_frame.name=Golden Core Frame
+item.contenttweaker.core_of_knowldage.name=Core of the Knowledge
+item.contenttweaker.evil_core.name=Evil Core
+item.contenttweaker.fading_matter_core.name=Fading Matter Core
+item.contenttweaker.frame.name=Components Frame
+item.contenttweaker.gregtech_component.name=Gregorius Component
+item.contenttweaker.inert_lamp_of_cinders.name=Inert Lamp Of Cinders
+item.contenttweaker.mekanism_component.name=Mekanism Component
+item.contenttweaker.nail.name=Nail
+item.contenttweaker.whitemagic_core.name=White Magic Core
+// ========================= Ingots Update
+item.contenttweaker.thebrightest.name=The Celestial Ingot
+item.contenttweaker.thecreative.name=The Creative Ingot
+item.contenttweaker.thedarkest.name=The Pure Evil Ingot
+item.contenttweaker.theenigmatic.name=The Enigmatic Ingot
+item.contenttweaker.theblank.name=The Blank Ingot
+item.contenttweaker.essofmech.name=Essence Of Mechanisation
+// ======================== Magic Cores
+item.contenttweaker.magic_cpu.name=Botaina CPU
+item.contenttweaker.magic_cpu_2.name=Astral CPU
+item.contenttweaker.magic_cpu_3.name=Blood CPU
+item.contenttweaker.magic_cpu_4.name=Evil CPU
+// ======================== liquids
+fluid.puremana=Pure Mana
+fluid.mterrasteel=Molten TerraSteel
+fluid.mmanamteel=Molten ManaSteel
+fluid.mmanagem=Molten ManaDiamond

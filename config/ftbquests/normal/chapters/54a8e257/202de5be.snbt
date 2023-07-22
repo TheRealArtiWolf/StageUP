@@ -1,0 +1,19 @@
+{
+	x: 6.5d,
+	y: 3.5d,
+	dependencies: [
+		"ccbb9530"
+	],
+	tasks: [{
+		uid: "95c2b4e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:crumble_horn"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	icon: "twilightforest:trophy 1 2",
+	x: 6.0d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "3f5f939b",
+		type: "kill",
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d6cad504",
+		type: "item",
+		item: "gregtechmod:credit_gold",
+		count: 2
+	}]
+}

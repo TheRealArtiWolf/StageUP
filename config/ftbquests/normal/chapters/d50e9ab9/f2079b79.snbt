@@ -1,0 +1,19 @@
+{
+	x: 37.5d,
+	y: 10.0d,
+	dependencies: [
+		"ca3146dc"
+	],
+	tasks: [{
+		uid: "542a3de4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aroma1997sdimension:miningmultitool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

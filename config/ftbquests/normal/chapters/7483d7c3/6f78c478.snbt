@@ -1,0 +1,13 @@
+{
+	x: 19.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	size: 2.5d,
+	tasks: [{
+		uid: "5155e439",
+		type: "item",
+		items: [{
+			item: "artisanworktables:workshop 1 7"
+		}]
+	}]
+}

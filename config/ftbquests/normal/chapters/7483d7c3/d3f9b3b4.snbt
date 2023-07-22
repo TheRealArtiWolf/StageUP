@@ -1,0 +1,22 @@
+{
+	x: 8.5d,
+	y: -5.5d,
+	text: [
+		"Accept any Color"
+	],
+	tasks: [{
+		uid: "33307008",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

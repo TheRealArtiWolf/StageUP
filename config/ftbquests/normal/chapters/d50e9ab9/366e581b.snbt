@@ -1,0 +1,26 @@
+{
+	x: 25.0d,
+	y: -4.0d,
+	dependencies: [
+		"aee76d1e",
+		"95ce9499"
+	],
+	tasks: [{
+		uid: "7c768dec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearStone"
+				}
+			}
+		}]
+	}]
+}

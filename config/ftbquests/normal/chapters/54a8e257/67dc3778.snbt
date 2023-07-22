@@ -1,0 +1,15 @@
+{
+	x: 16.0d,
+	y: -3.5d,
+	dependencies: [
+		"ca2cfacb"
+	],
+	tasks: [{
+		uid: "6adaf2f0",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_fur"
+		}],
+		count: 24L
+	}]
+}

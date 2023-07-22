@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "8b40d1fa",
+		type: "item",
+		items: [{
+			item: "contenttweaker:magic_cpu"
+		}]
+	}]
+}

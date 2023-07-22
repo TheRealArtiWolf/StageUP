@@ -1,0 +1,14 @@
+{
+	x: 53.5d,
+	y: 13.0d,
+	dependencies: [
+		"fcef1ad5"
+	],
+	tasks: [{
+		uid: "967bd2e6",
+		type: "item",
+		items: [{
+			item: "gregtechmod:rod_titanium"
+		}]
+	}]
+}

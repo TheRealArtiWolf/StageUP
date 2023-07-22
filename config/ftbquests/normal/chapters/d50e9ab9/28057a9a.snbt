@@ -1,0 +1,22 @@
+{
+	x: 34.5d,
+	y: 1.0d,
+	dependencies: [
+		"e8619f78",
+		"b1cc6c3a"
+	],
+	tasks: [{
+		uid: "f1fc867f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ic2:energy_pack",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

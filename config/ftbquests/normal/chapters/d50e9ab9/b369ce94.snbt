@@ -1,0 +1,14 @@
+{
+	x: 47.0d,
+	y: 13.0d,
+	dependencies: [
+		"fbfaa3fd"
+	],
+	tasks: [{
+		uid: "a0411f67",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	}]
+}

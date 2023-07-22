@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 5.5d,
+	dependencies: [
+		"d36d408a"
+	],
+	tasks: [{
+		uid: "6462d029",
+		type: "item",
+		items: [{
+			item: "simplecorn:corncob"
+		}]
+	}]
+}

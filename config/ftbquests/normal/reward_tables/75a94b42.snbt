@@ -1,0 +1,16 @@
+{
+	title: "Coins",
+	loot_size: 1,
+	rewards: [{
+		item: "gregtechmod:credit_silver"
+	}],
+	loot_crate: {
+		string_id: "coins",
+		color: 16777215,
+		drops: {
+			boss: 1000,
+			passive: 0,
+			monster: 30
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	x: 21.5d,
+	y: -2.0d,
+	dependencies: [
+		"8bb4c828",
+		"adbb36c5"
+	],
+	tasks: [{
+		uid: "ff6355a4",
+		type: "item",
+		items: [{
+			item: "twilightforest:giant_obsidian"
+		}]
+	}]
+}

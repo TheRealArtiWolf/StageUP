@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "81956dd3",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}]
+	}]
+}

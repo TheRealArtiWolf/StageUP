@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 2.5d,
+	dependencies: [
+		"fd59f096"
+	],
+	tasks: [{
+		uid: "3882ca92",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 21.0d,
+	y: 17.0d,
+	dependencies: [
+		"6eb1788c"
+	],
+	tasks: [{
+		uid: "2690c1ed",
+		type: "item",
+		items: [{
+			item: "railcraft:battery_zinc_silver"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 36.0d,
+	y: 0.0d,
+	dependencies: [
+		"eba65258"
+	],
+	tasks: [{
+		uid: "2986f090",
+		type: "item",
+		items: [{
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

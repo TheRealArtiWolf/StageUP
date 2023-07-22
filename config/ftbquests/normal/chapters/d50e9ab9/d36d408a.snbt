@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: 4.5d,
+	dependencies: [
+		"ebb1d777"
+	],
+	tasks: [{
+		uid: "f04d8826",
+		type: "item",
+		items: [{
+			item: "simplecorn:kernels"
+		}]
+	}]
+}
